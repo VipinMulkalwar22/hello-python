@@ -1,6 +1,6 @@
 # hello-python
 
-This repository contains Python topics and examples, organized by fundamental topics. Each section lists files that demonstrate the concepts, making it easy to find relevant code and extend as new topics are added.
+This repository contains Python examples organized by fundamental topics. Each section lists files that demonstrate key concepts, making it easy to find relevant code and extend as new topics are added.
 
 ---
 
